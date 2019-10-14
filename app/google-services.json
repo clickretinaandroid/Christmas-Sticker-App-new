@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806039105081",
+    "firebase_url": "https://dussehra-diwali-sticker-app.firebaseio.com",
+    "project_id": "dussehra-diwali-sticker-app",
+    "storage_bucket": "dussehra-diwali-sticker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806039105081:android:d116562a0481a92d7ce7e8",
+        "android_client_info": {
+          "package_name": "com.wastickerapps.appchristmas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806039105081-g2579jebitao7ddr8au0rv9n2lpes1vp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wastickerapps.appchristmas",
+            "certificate_hash": "d932462a14dd885f2d99dad69ea448968ebddf53"
+          }
+        },
+        {
+          "client_id": "806039105081-2avdn3vcp1pd5ru8lgi1gtirmn58d8kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPwLD-T96SgFgZhGiCvmX_IW9hBrLBhmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806039105081-2avdn3vcp1pd5ru8lgi1gtirmn58d8kv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
